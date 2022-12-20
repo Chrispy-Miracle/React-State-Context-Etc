@@ -1,0 +1,47 @@
+.container {
+    height: 95%;
+    width: 95%;
+    border: 1px solid #666666;
+}
+.page-two-form {
+    width: 50vw;
+}
+.flex-col {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+.flex {
+    display: flex;
+    justify-content: center;
+}
+.radio-btn {
+    height: 15px;
+    width: 15px;
+}
+.page-two-form input, select{
+    height: 30px;
+    width: 25vw;
+    margin: 5px;
+    border-radius: 5px;;
+}
+.radio {
+    height: 20px;
+    width: 26vw;
+}
+
+button {
+    margin: 20px;
+    background: #a9a9c1;
+    color: #3333dd;
+    font-size: 20px;
+    height: 40px;
+    width: 100px;
+    border-radius: 5px;
+}
+button:hover {
+    background: #7676b6;
+    height: 42px;
+    box-shadow: 3px 3px black;
+}

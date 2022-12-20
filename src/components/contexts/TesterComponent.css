@@ -1,0 +1,5 @@
+.tester {
+    display: flex;
+    margin-top: 20px;
+    height: fit-content;
+}
