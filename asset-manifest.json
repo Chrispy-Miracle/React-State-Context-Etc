@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Chrispy-Miracle/React-State-Context-Etc.git/static/css/main.974ec94d.css",
-    "main.js": "/Chrispy-Miracle/React-State-Context-Etc.git/static/js/main.5203d64f.js",
-    "static/js/787.3295a52e.chunk.js": "/Chrispy-Miracle/React-State-Context-Etc.git/static/js/787.3295a52e.chunk.js",
-    "index.html": "/Chrispy-Miracle/React-State-Context-Etc.git/index.html",
-    "main.974ec94d.css.map": "/Chrispy-Miracle/React-State-Context-Etc.git/static/css/main.974ec94d.css.map",
-    "main.5203d64f.js.map": "/Chrispy-Miracle/React-State-Context-Etc.git/static/js/main.5203d64f.js.map",
-    "787.3295a52e.chunk.js.map": "/Chrispy-Miracle/React-State-Context-Etc.git/static/js/787.3295a52e.chunk.js.map"
+    "main.css": "/React-State-Context-Etc/static/css/main.2f635e68.css",
+    "main.js": "/React-State-Context-Etc/static/js/main.ed14fb6f.js",
+    "static/js/787.3295a52e.chunk.js": "/React-State-Context-Etc/static/js/787.3295a52e.chunk.js",
+    "index.html": "/React-State-Context-Etc/index.html",
+    "main.2f635e68.css.map": "/React-State-Context-Etc/static/css/main.2f635e68.css.map",
+    "main.ed14fb6f.js.map": "/React-State-Context-Etc/static/js/main.ed14fb6f.js.map",
+    "787.3295a52e.chunk.js.map": "/React-State-Context-Etc/static/js/787.3295a52e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.974ec94d.css",
-    "static/js/main.5203d64f.js"
+    "static/css/main.2f635e68.css",
+    "static/js/main.ed14fb6f.js"
   ]
 }
