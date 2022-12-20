@@ -31,7 +31,7 @@
     width: 26vw;
 }
 
-button {
+.form-btn {
     margin: 20px;
     background: #a9a9c1;
     color: #3333dd;

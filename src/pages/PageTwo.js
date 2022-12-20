@@ -54,7 +54,7 @@ const PageTwo = () => {
                         <option value={select} onClick={()=>setselect("bye")}>bye</option>
                     </select>
                 </div>
-                <button type="submit"  onClick={(e) => handleFormSubmit(e)}>Submit</button>
+                <button className="form-btn" type="submit"  onClick={(e) => handleFormSubmit(e)}>Submit</button>
             </form>       
         </div>
 
