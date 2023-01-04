@@ -8,7 +8,7 @@ const MapFilterReduce = () => {
     return (
         <>  
             <ForEach />
-            <h3>Map, Filter and Reduce all accept functions:</h3>
+            <h3>Map, Filter and Reduce are "higher order functions" and all accept functions:</h3>
             <div className="flex-two map-filt-reduce">
                 <Map />
                 <Filter />
